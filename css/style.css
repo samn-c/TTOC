@@ -455,10 +455,10 @@ hr {
 .tz {
     text-align: center;
 }
-.local, .utc {
+.local, .utc, .offset {
     padding: 25px;
 }
-#local, #utc {
+#local, #utc, #offset {
     font-size: 24px;
 }
 
